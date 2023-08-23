@@ -1,6 +1,6 @@
 # Observability Platform
 
-* I have created Diagram to provide high level of solution for Platform Monitoring using Gitops.
+* I have created Diagram in Draw.io tool to provide high level of solution for Platform Monitoring using Gitops.
 * 
   **Tool used**
 * Azure Kubernetes Service to run Application. 
